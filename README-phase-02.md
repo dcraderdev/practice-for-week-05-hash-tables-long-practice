@@ -20,6 +20,18 @@ anagrams('elvis', 'lives');     // => true
 anagrams('coding', 'rocks');    // => false
 ```
 
+
+
+
+
+
+
+
+
+
+
+
+
 ### `Common Elements`
 
 Given two arrays of integers, return an array of unique integers that are
@@ -33,6 +45,16 @@ commonElements([1,2,3], [3,4,5]);         // => [3]
 commonElements([2,4,6], [5,4,3,2,1]);     // => [2,4]
 ```
 
+
+
+
+
+
+
+
+
+
+
 ### `Duplicates`
 
 Given an array of integers, one integer appears twice while all other integers
@@ -44,6 +66,21 @@ Example:
 duplicate([2,2,1]);             // => 2
 duplicate([7,2,4,9,5,4,8]);     // => 4
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### `Two Sum Revisited`
 
